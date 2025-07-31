@@ -1,0 +1,25 @@
+# Python 3.13 Compatible Requirements
+# Limited functionality but works with Python 3.13+
+
+# Core computer vision libraries
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Machine learning libraries (Python 3.13 compatible)
+scikit-learn>=1.3.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# TensorFlow for Python 3.13 (latest available)
+tensorflow>=2.16.0
+
+# Image processing
+scipy>=1.10.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Note: DeepLabCut is not compatible with Python 3.13 yet
+# This file provides basic ML capabilities for gesture detection
+# For full DeepLabCut features, use Python 3.8-3.11 
